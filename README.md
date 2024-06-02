@@ -45,7 +45,7 @@ b = data << 1 = 1000 (8) ⟶ carries shifted left
 The common set bit is in the third position (from the right), indicating that there is a carry from the third position to the fourth position in binary addition.
 
 
-**4. Right Shift (>>) ** moves to the next bit of the multiplier. The right shift operator (>>) shifts all bits of its operand to the right by the specified number of positions. Each shift to the right divides the number by 2, discarding the least significant bit (LSB).
+**4. Right Shift (>>) **moves to the next bit of the multiplier. The right shift operator (>>) shifts all bits of its operand to the right by the specified number of positions. Each shift to the right divides the number by 2, discarding the least significant bit (LSB).
 b = 101 (5)
 
 b= b >>= 1 shifts b to the right by 1 bit, effectively dividing b by 2.
