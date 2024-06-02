@@ -15,8 +15,7 @@ b = 101 (binary for 5)
 int data = a & b;
 
    a = 1 0 0
-   b = 1 0 1
-   -----------
+   b = 1 0 1  
 data = 1 0 0 (4 in binary)
 In this operation:
 
