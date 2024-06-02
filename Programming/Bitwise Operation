@@ -1,1 +1,1 @@
-
+Bitwise operators in C perform operations on the individual bits of integers. They include AND (&), OR (1), XOR (^), NOT (~), left shift (<<"), and right shift (`>>`). These operators are commonly used for tasks like setting, clearing, and toggling specific bits, performing fast arithmetic operations, and optimizing memory usage in low- level programming and embedded systems.
